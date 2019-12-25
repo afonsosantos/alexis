@@ -29,7 +29,7 @@ python main.py
 ### Disponíveis no PyPi:
 
 - playsound
-- speech_recognition as sr
+- speech_recognition
 - gtts
 
 ## Contribuição
