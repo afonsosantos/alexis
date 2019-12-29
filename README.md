@@ -34,7 +34,7 @@ python main.py
 
 ## Contribuição
 
-Novas funcionalidades são bem-vindas! Antes de qualquer alteração, abra uma [Questão (_Issue_)](https://github.com/alexis/mySchool/issues) para discutirmos o problema e as possíveis soluções.
+Novas funcionalidades são bem-vindas! Antes de qualquer alteração, abra uma [Questão (_Issue_)](https://github.com/afonsosantos/alexis/issues) para discutirmos o problema e as possíveis soluções.
 
 ## Licença
 
